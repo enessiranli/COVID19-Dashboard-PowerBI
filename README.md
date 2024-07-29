@@ -15,7 +15,7 @@ To view the PowerBI dashboard, download the `.pbix` file and open it using Power
 ## Usage
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/COVID19-Dashboard-PowerBI.git
+    git clone https://github.com/enessiranli/COVID19-Dashboard-PowerBI.git
     ```
 2. Open the `.pbix` file in PowerBI Desktop.
 
